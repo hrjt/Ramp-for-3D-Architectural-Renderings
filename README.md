@@ -20,5 +20,6 @@ I am available to be hired for development of any type of:
 - Custom Managed Website Hosting
 
 my site: https://www.virses.com
+- contact me: https://www.virses.com/architectural-renderings-contact
  
   
