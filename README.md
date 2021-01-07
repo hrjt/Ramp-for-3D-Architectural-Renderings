@@ -11,7 +11,7 @@ HOW TO USE?
 I am a freelancer with passion for technology. 
 I am available to be hired for development of any type of:
 
-- 3D Architectural Renderings and Walkthrough Animations
+- 3D <a href="https:\\www.virses.com" alt="architectural renderings and animations freelancer">Architectural Renderings and Walkthrough Animations</a>
 - AutoCAD custom command development and Automation
 - Mobile -Android and iOS application development
 - Website Development: eCommerce, Audio-Video, Company Listing and Portfolio platforms.
